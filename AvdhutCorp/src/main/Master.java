@@ -36,6 +36,7 @@ public abstract class Master {    ///POJo class
 		if(password.equals("Hr123")) {
 		this.sal=sal;
 		System.out.println("Salary Updated");
+		System.out.println("Avdhut change");
 		}
 	}
 }
