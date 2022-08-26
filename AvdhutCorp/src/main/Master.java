@@ -37,6 +37,7 @@ public abstract class Master {    ///POJo class
 		this.sal=sal;
 		System.out.println("Salary Updated");
 		System.out.println("Avdhut change");
+		System.out.println("New Method Added to show branching");
 		}
 	}
 }
